@@ -1,1 +1,2 @@
 # Proyek-DA-21-Cybersecurity-Threats-Attacks-Crimes-Analysis-2020-2023
+The dashboard presents a descriptive analysis of cyber threats, attacks, and crimes from 2020 to 2023, occurring in 8.7 thousand different locations across India. A total of 40 thousand cases were identified, divided into the three most common types of attacks: DDoS, Malware, and Intrusions. Statistically, Windows is the most vulnerable operating system, with 17,953 cases, even though cyber attacks have decreased.
